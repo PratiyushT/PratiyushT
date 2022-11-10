@@ -1,4 +1,5 @@
-### Hi there 👋 I am currently learning WEB DEVELOPMENT 
+### Hi there 👋 
+Web Developer in the making
 Contact me : aloomataloo@gmail.com
 
 <!--
@@ -6,7 +7,6 @@ Contact me : aloomataloo@gmail.com
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning WEB DEVELOPMENT
 - 📫 How to reach me: aloomataloo@gmail.com
 - 😄 Pronouns: ...
 -->
